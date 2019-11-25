@@ -6,6 +6,7 @@ public class Caca {
 		// TODO Auto-generated method stub
 
 		System.out.println("哈哈哈哈哈哈");
+		System.out.println("999999999999999999");
 	}
 
 }
